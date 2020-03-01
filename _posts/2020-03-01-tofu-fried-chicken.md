@@ -24,6 +24,6 @@ recipe:
     8. &nbsp;
 ---
 
-<img src="/images/test.jpg" alt="test image size" height="75%" width="75%">
+<img src="/images/test.jpg" alt="test image size" height="50%" width="50%">
 
 
