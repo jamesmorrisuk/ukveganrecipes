@@ -8,7 +8,7 @@ recipe:
   servings: 'Serves: 3 people'
   prep:
   cook: 'Cooking Time: 15 minutes'
-  ingredients_markdown: '* Tofu'
+  ingredients_markdown: '* Tofu.&nbsp;'
   directions_markdown: Lazy boi placeholder
 ---
 
