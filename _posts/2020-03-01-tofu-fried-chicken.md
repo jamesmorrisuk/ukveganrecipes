@@ -4,9 +4,6 @@ categories:
   - Tofu
 date: 2020-03-01 21:00:00
 featured_image: /uploads/8AE1FD71-B43E-43E5-BFF2-60C146CD4E5A.jpeg
-
-<img src="/images/test.jpg" alt="test image size" height="50%" width="50%">
-
 recipe:
   servings: 'Serves: 3 people'
   prep:
