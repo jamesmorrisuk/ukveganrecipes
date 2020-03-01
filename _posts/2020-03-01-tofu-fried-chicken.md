@@ -23,4 +23,5 @@ recipe:
     7. 7
     8. &nbsp;
 ---
-(images/test.jpg)
+![test](images/test)
+
