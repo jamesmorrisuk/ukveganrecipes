@@ -3,7 +3,7 @@ date: 2020-03-01 03:22:00
 title: No Knead Pretzel Rolls
 categories:
   - Bread
-featured_image: /uploads/whatsapp-image-2020-03-01-at-15-23-49.jpg
+featured_image: /uploads/pretzel roll.png
 recipe:
   servings: 8 Rolls
   prep: 5-20 minutes.
@@ -95,9 +95,3 @@ recipe:
     your oven.
 ---
 
-&nbsp;
-
-> ![](/uploads/meep.png){: width="640" height="601"}
->
->
-> **Gluten Formation. See recipe below.**
