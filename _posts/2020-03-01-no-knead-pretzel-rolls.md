@@ -97,4 +97,7 @@ recipe:
 
 &nbsp;
 
-> ![](/uploads/resize.jpg){: width="1500" height="1500"}Gluten Formation. See steps below.&nbsp;
+> ![](/uploads/meep.png){: width="640" height="601"}
+>
+>
+> Gluten Formation. See steps below.&nbsp;
