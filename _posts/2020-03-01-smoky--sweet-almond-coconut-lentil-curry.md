@@ -9,6 +9,14 @@ recipe:
   prep: 'Prep: 10 minutes'
   cook: 'Cook Time: 15 minutes'
   ingredients_markdown: '* Tomato Puree 2-3 Tablespoons'
-  directions_markdown: my lazy ass will type it up in a bit
+  directions_markdown: |-
+    1. my lazy ass will type it up in a bit
+    2. 2
+    3. 3
+    4. 4
+    5. 5
+    6. 6
+    7. 7
+    8. &nbsp;
 ---
 
