@@ -97,8 +97,8 @@ recipe:
     rolls.**
 
 
-    Boil a suitably sized saucepan with water about half way full and add 80
-    grams of baking soda, stir to dissolve.&nbsp;
+    Fill a suitable sized saucepan with water about half way full and add 80
+    grams of baking soda, stir to dissolve. Heat until it reaches a boil.
 
 
     Place your rolls one or two at a time into the pot of boiling water
