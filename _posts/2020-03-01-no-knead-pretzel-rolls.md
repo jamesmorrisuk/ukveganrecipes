@@ -97,4 +97,4 @@ recipe:
 
 &nbsp;
 
-&nbsp;
+> ![](/uploads/resize.jpg){: width="1500" height="1500"}Gluten Formation. See steps below.&nbsp;
