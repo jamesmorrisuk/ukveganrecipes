@@ -89,7 +89,7 @@ recipe:
     your oven.
 ---
 
-**NO KNEAD PRETZEL ROLLS**
+&nbsp;
 
 &nbsp;
 
