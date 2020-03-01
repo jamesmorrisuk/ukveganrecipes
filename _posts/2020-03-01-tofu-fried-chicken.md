@@ -23,5 +23,5 @@ recipe:
     7. 7
     8. &nbsp;
 ---
-![Cupcakes](images/test)
+![Cupcakes](images/test.jpg)
 
