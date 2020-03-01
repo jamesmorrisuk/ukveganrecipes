@@ -100,4 +100,4 @@ recipe:
 > ![](/uploads/meep.png){: width="640" height="601"}
 >
 >
-> Gluten Formation. See steps below.&nbsp;
+> **Gluten Formation. See recipe below.**
