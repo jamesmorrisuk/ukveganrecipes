@@ -34,8 +34,8 @@ recipe:
 
 
     **I've adjusted and perfected it to my tastes the great thing about this
-    recipe is you don't need a bulky stand mixer or to spend ages kneading dough
-    by hand, or any equipment, all you need is time.**
+    recipe is you don't need a bulky stand mixer, or any other equipment. Time
+    is all you need.**
 
 
     > If you own a stand mixer you can still use the ingredient quantities
