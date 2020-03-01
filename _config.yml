@@ -1,8 +1,6 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -16,9 +14,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: 
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    
 
 # -----
 # Build
