@@ -98,11 +98,3 @@ recipe:
 &nbsp;
 
 &nbsp;
-
-![](/uploads/whatsapp-image-2020-03-01-at-16-33-23.jpg){: width="1200" height="1600"}
-
-![](/uploads/whatsapp-image-2020-03-01-at-16-33-24-1.jpg){: width="1200" height="1600"}
-
-![](/uploads/whatsapp-image-2020-03-01-at-16-33-24.jpg){: width="1200" height="1600"}
-
-![](/uploads/whatsapp-image-2020-03-01-at-16-33-25.jpg){: width="1200" height="1600"}
