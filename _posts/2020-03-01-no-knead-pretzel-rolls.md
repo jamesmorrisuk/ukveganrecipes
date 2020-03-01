@@ -3,8 +3,6 @@ date: 2020-03-01 03:22:00
 title: No Knead Pretzel Rolls
 categories:
   - Bread
-  - Dough
-  - Baking
 featured_image: /uploads/whatsapp-image-2020-03-01-at-15-23-49.jpg
 recipe:
   servings: 8 Rolls
