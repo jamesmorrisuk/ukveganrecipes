@@ -2,7 +2,7 @@
 # Site
 
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-159414978-1
 newsletter_action:
 disqus_shortname:
 
@@ -21,7 +21,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: GMT
 
 paginate: 10
 paginate_path: "/:num/"
