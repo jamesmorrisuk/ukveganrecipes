@@ -26,3 +26,7 @@ recipe:
 
 <img src="/images/test.jpg" height="100px" width="400px" >
 
+(/images/test.jpg)
+
+
+
