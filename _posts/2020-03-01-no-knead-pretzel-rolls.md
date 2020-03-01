@@ -80,8 +80,8 @@ recipe:
     with.&nbsp;
 
 
-    <br>Divide the dough into 8 pieces for rolls the size of the above post or
-    into 4 pieces for much larger rolls. &nbsp;&nbsp;
+    Divide the dough into 8 pieces for rolls the size of the above post or into
+    4 pieces for much larger rolls. &nbsp;&nbsp;
 
 
     Let each dough ball rest & expand one final time. If you're skipping the
