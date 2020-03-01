@@ -23,5 +23,6 @@ recipe:
     7. 7
     8. &nbsp;
 ---
-![Cupcakes](images/test.jpg)
+
+<img src="/images/test.jpg" height="100px" width="400px" >
 
