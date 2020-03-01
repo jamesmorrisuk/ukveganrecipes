@@ -30,11 +30,12 @@ recipe:
     the yeast and salt flavouring gives the bread a pretzel bagel type flavour.
     You can again omit this entirely if that’s your thing. &nbsp;
   directions_markdown: >-
-    # **This is a no kneading dough recipe **
+    # This is a no kneading dough recipe
 
 
-    **I've adjusted and perfected which means you don't need a bulky stand mixer
-    or any equipment, all you need is time.**
+    **I've adjusted and perfected it to my tastes the great thing about this
+    recipe is you don't need a bulky stand mixer or to spend ages kneading dough
+    by hand, or any equipment, all you need is time.**
 
 
     > If you own a stand mixer you can still use the ingredient quantities
@@ -46,11 +47,14 @@ recipe:
     gluten.<br>&nbsp;
 
 
-    The dough takes 5 minutes to put together. Mix the ingredients together in
-    any order (although flour first don’t be a weirdo)
+    Mix the ingredients together in any order (although flour first don’t be a
+    weirdo)
 
 
-    I'd suggest preparing this at night.
+    The dough takes 3 minutes to put together into a rough ball shape.&nbsp;
+
+
+    I'd suggest preparing your dough at night.
 
 
     You have two options a slow rise or a fast rise depending on your life
@@ -78,7 +82,7 @@ recipe:
 
 
     Let each dough ball rest until they expand and then one by one put them into
-    a pot of boiling water and 80grams or so of baking powder for 30 seconds to
+    a pot of boiling water and 80 grams or so of baking powder for 30 seconds to
     to a minute. Flipping so both sides are nicely saturated.
 
 
