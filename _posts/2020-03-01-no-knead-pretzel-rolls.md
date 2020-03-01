@@ -51,7 +51,7 @@ recipe:
     weirdo)
 
 
-    The dough takes 3 minutes to put together into a rough ball shape.&nbsp;
+    The dough takes 3 minutes to form together into a rough ball shape.&nbsp;
 
 
     I'd suggest preparing your dough at night.
