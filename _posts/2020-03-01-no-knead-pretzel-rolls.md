@@ -9,6 +9,9 @@ recipe:
   prep: 5-20 minutes.
   cook: 20 Minutes.
   ingredients_markdown: >-
+    **Ingredients**
+
+
     * 600g bread flour
 
     * One packet of instant yeast. 7 grams.
@@ -44,12 +47,11 @@ recipe:
     gluten.<br>&nbsp;
 
 
-    Mix the ingredients together in a large bowl with a spoon. Mix them together
-    in any order (although flour first don’t be a weirdo)
+    Mix the ingredients together in any order (although flour first don’t be a
+    weirdo)
 
 
-    The dough takes roughly 3 minutes to form together into a rough ball
-    shape.&nbsp;
+    The dough takes 3 minutes to put together into a rough ball shape.&nbsp;
 
 
     I'd suggest preparing your dough at night.
@@ -71,31 +73,46 @@ recipe:
 
 
     Whichever rise you went with, once risen form your dough into a ball shape
-    again (it'll lose its shape when after it rose the first time)
+    again (itll lose its shape when it rose the first time)
 
 
-    &nbsp;Dust the dough with extra flour if your dough is wet or sticky and
-    hard to work with.&nbsp;
+    &nbsp;Dust with extra flour if your dough is wet or sticky and hard to work
+    with.&nbsp;
 
 
-    <br>Divide the dough into 8 pieces for rolls the size of the photo or into 4
-    pieces for much larger rolls. &nbsp;&nbsp;
+    <br>Divide the dough into 8 pieces for rolls the size of the above post or
+    into 4 pieces for much larger rolls. &nbsp;&nbsp;
 
 
-    > **The below step is optional but its what achieves the pretzel brown
-    colour and flavour**
+    Let each dough ball rest & expand one final time. If you're skipping the
+    below step brush your rolls lightly with vegan butter and add your toppings
+    of choice. Your rolls need to be wet for your toppings to stick.
 
 
-    Let each dough ball rest until they expand and then one by one put them into
-    a pot of boiling water and 80 grams or so of baking powder for 30 seconds to
-    to a minute. Flipping so both sides are nicely saturated.
+    > **The below step is optional but it's what achieves the brown colour and
+    pretzel flavour.&nbsp;**
 
 
-    The alkaline solution in the baking soda water is what gives the browning
-    that you expect from pretzels. Drain them put on a tray lined with non stick
-    baking paper. Add toppings to the rolls at this point.
+    **If you're following this step ignore the above suggestion of buttering the
+    rolls.**
 
 
-    # **Bake in the oven at 200-220c for 20 mins or so depending on your oven.**
+    Boil a suitably sized saucepan with water about half way full and add 80
+    grams of baking soda, stir to dissolve.&nbsp;
+
+
+    Place your rolls one or two at a time into the pot of boiling water
+    containing your baking soda alkaline solution. Let each roll soak in the
+    solution for 30 seconds to a minute. Flipping so both sides are nicely
+    saturated.
+
+
+    &nbsp;Lift them out with a slotted spoon and drain them off, place your
+    rolls on a tray lined with non stick baking paper. **Add toppings to the
+    rolls at this point.**
+
+
+    **Bake in the oven at 200-220 for 20 mins maybe more maybe less depending on
+    your oven.**
 ---
 
