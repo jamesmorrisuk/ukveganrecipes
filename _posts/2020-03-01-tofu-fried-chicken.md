@@ -12,4 +12,4 @@ recipe:
   directions_markdown: Lazy boi placeholder
 ---
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+![Cookie](/images/test.jpg)
