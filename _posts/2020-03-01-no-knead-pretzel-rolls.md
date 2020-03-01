@@ -9,9 +9,6 @@ recipe:
   prep: 5-20 minutes.
   cook: 20 Minutes.
   ingredients_markdown: >-
-    **Ingredients**
-
-
     * 600g bread flour
 
     * One packet of instant yeast. 7 grams.
@@ -47,11 +44,12 @@ recipe:
     gluten.<br>&nbsp;
 
 
-    Mix the ingredients together in any order (although flour first don’t be a
-    weirdo)
+    Mix the ingredients together in a large bowl with a spoon. Mix them together
+    in any order (although flour first don’t be a weirdo)
 
 
-    The dough takes 3 minutes to put together into a rough ball shape.&nbsp;
+    The dough takes roughly 3 minutes to form together into a rough ball
+    shape.&nbsp;
 
 
     I'd suggest preparing your dough at night.
@@ -73,12 +71,19 @@ recipe:
 
 
     Whichever rise you went with, once risen form your dough into a ball shape
-    again (itll lose its shape when it rose the first time)
+    again (it'll lose its shape when after it rose the first time)
 
 
-    &nbsp;Dust with extra flour if your dough is wet or sticky and hard to work
-    with.&nbsp;<br>Divide the dough into 8 pieces for rolls the size of the
-    above post or into 4 pieces for much larger rolls. &nbsp;&nbsp;
+    &nbsp;Dust the dough with extra flour if your dough is wet or sticky and
+    hard to work with.&nbsp;
+
+
+    <br>Divide the dough into 8 pieces for rolls the size of the photo or into 4
+    pieces for much larger rolls. &nbsp;&nbsp;
+
+
+    > **The below step is optional but its what achieves the pretzel brown
+    colour and flavour**
 
 
     Let each dough ball rest until they expand and then one by one put them into
@@ -91,7 +96,6 @@ recipe:
     baking paper. Add toppings to the rolls at this point.
 
 
-    Bake in the oven at 200-220 for 20 mins maybe more maybe less depending on
-    your oven.
+    # **Bake in the oven at 200-220c for 20 mins or so depending on your oven.**
 ---
 
