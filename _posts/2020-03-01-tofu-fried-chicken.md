@@ -12,4 +12,3 @@ recipe:
   directions_markdown: Lazy boi placeholder
 ---
 
-![](/uploads/test.jpg){: width="1560" height="940"}
