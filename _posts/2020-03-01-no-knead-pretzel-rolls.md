@@ -46,12 +46,9 @@ recipe:
     gluten.<br>&nbsp;
 
 
-    * Mix the ingredients together in any order (although flour first don’t be a
-    weirdo)
-
-    * The dough takes 3 minutes to form together into a rough ball shape.&nbsp;
-
-    * I'd suggest preparing your dough at night.
+    * Mix the ingredients together in a large bowl in any order using a spoon
+    (although flour first don’t be a weirdo) The dough takes 3 minutes to form
+    together into a rough ball shape.&nbsp;
 
 
     You have two options a slow rise or a fast rise depending on your life
@@ -69,7 +66,7 @@ recipe:
 
 
     Whichever rise you went with, once risen form your dough into a ball shape
-    again (itll lose its shape when it rose the first time)
+    again (it'll lose its shape when it rose the first time)
 
 
     * &nbsp;Dust with extra flour if your dough is wet or sticky and hard to
