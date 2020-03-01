@@ -30,52 +30,56 @@ recipe:
     the yeast and salt flavouring gives the bread a pretzel bagel type flavour.
     You can again omit this entirely if that’s your thing. &nbsp;
   directions_markdown: >-
-    This is a no kneading dough recipe that I’ve perfected which doesn’t require
-    a bulky stand mixer or any machines.&nbsp;
+    # **This is a no kneading dough recipe **
 
 
-    If you own a stand mixer you can just use the usual methods and can knock
-    this whole thing out in much less time. &nbsp;Don’t try and be a hero and
-    knead manually, your arms will tire out before you produce 20% of the
-    desired amount of gluten.&nbsp;
+    **I've adjusted and perfected which means you don't need a bulky stand mixer
+    or any equipment, all you need is time.**
 
 
-    The dough takes 5 minutes to put together. Mix the below ingredients
-    together in any order (although flour first don’t be a weirdo)
+    > If you own a stand mixer you can still use the ingredient quantities
+    posted but ignore all the steps below.
 
 
-    Ingredients
+    > Don't be that person that tries to make bread by kneading by hand. Your
+    arms will want to fall off before you even get close to forming enough
+    gluten.<br>&nbsp;
 
 
-    Like most people I put this dough together at night so I can eat bread the
-    next day.&nbsp;
+    The dough takes 5 minutes to put together. Mix the ingredients together in
+    any order (although flour first don’t be a weirdo)
 
 
-    If you have work the next day and won’t be able to make the bread until the
-    next evening put your dough mixture in the fridge to slow rise.&nbsp;<br>So
-    if you put the dough together at 6pm put it in your fridge and take it out
-    the next evening at 6pm. A 24 hour slow rise produces a great taste.
+    I'd suggest preparing this at night.
 
 
-    If you want to cook the bread the morning you wake up and you work from home
-    or it’s a weekend you can instead let it fast rise overnight for 12 hours in
-    a bowl covered with a towel or plate somewhere relatively warm like a turned
-    off microwave or turned off oven.&nbsp;
+    You have two options a slow rise or a fast rise depending on your life
+    schedule.
 
 
-    Whichever method you chose fast or slow rise your dough should have doubled
-    in size and be full of bubbles from the co2 created. This is bon.&nbsp;
+    A fast rise. This means leaving your dough mixture covered for 12 hours or
+    so covered at room temperature. Which means you can make this in the evening
+    and have dough ready to go the next morning.
 
 
-    Form it into a ball shape. Dust with extra flour if your dough is wet or
-    sticky and hard to work with.&nbsp;<br>Divide the dough into 8 pieces for
-    rolls the size of the above post or into 4 pieces for much larger rolls.
-    &nbsp;&nbsp;
+    A slow rise. If you don't work from home or its not a weekend this is the
+    option that'll work best for most people. After you've mixed the ingredients
+    in a bowl into a lose ball place the dough in the fridge covered for 24-48
+    hours.
 
 
-    Let them rest until they expand and then one by one put them into a pot of
-    boiling water and 80grams or so of baking powder for 30 seconds to to a
-    minute. Flipping so both sides are nicely saturated.
+    Whichever rise you went with, once risen form your dough into a ball shape
+    again (itll lose its shape when it rose the first time)
+
+
+    &nbsp;Dust with extra flour if your dough is wet or sticky and hard to work
+    with.&nbsp;<br>Divide the dough into 8 pieces for rolls the size of the
+    above post or into 4 pieces for much larger rolls. &nbsp;&nbsp;
+
+
+    Let each dough ball rest until they expand and then one by one put them into
+    a pot of boiling water and 80grams or so of baking powder for 30 seconds to
+    to a minute. Flipping so both sides are nicely saturated.
 
 
     The alkaline solution in the baking soda water is what gives the browning
