@@ -8,8 +8,20 @@ recipe:
   servings: 'Serves: 3 people'
   prep:
   cook: 'Cooking Time: 15 minutes'
-  ingredients_markdown: '* Tofu..'
-  directions_markdown: Lazy boi placeholder
+  ingredients_markdown: |-
+    * Tofu
+    * All Purpose Flour
+    * Gravy Granules
+    * insert rest later
+  directions_markdown: |-
+    1. Lazy boi placeholder
+    2. 2
+    3. 3
+    4. 4
+    5. 5
+    6. 6
+    7. 7
+    8. &nbsp;
 ---
 
-![Cookie](/images/test.jpg)
+![Cookie](/images/test.jpg){: width="1200" height="1600"}
