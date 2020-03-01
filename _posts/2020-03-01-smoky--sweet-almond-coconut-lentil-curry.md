@@ -3,7 +3,7 @@ title: Smoky & sweet almond coconut lentil curry
 categories:
   - Curry
 date: 2020-03-01 03:00:00
-featured_image: /uploads/whatsapp-image-2020-03-01-at-19-50-52.jpeg
+featured_image: /uploads/CD16D40A-7855-421B-8B4B-9EE56EA115FC.jpeg
 recipe:
   servings: 'Servings: 2-4'
   prep: 'Prep: 10 minutes'
