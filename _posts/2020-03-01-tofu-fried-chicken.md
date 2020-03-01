@@ -9,6 +9,13 @@ recipe:
   prep:
   cook: 'Cooking Time: 15 minutes'
   ingredients_markdown: '* Tofu..'
-  directions_markdown: Lazy boi placeholder
+  directions_markdown: |-
+    1. Lazy boi placeholder
+    2. 2
+    3. 3
+    4. 4
+    5. 5
+    6. 6
+    7. &nbsp;
 ---
 
