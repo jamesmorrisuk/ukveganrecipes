@@ -41,18 +41,6 @@ recipe:
 
 
     11. Optional seeds for garnish. Sesame, onion seed, poppy. etc
-
-
-    &nbsp;
-
-
-    &nbsp;
-
-
-    1. &nbsp;
-
-
-    &nbsp;
   directions_markdown:
 ---
 
