@@ -33,7 +33,7 @@ recipe:
     * *Optional seeds for garnish. Sesame, onion seed, poppy. etc*
   directions_markdown: >-
     1. Peel and chop a large baking potato into small bite sized cubes. Parboil
-    in a boiling water.
+    in a pan of boiling water.
 
 
     2. Fry a packet of Quorn vegan chunks in a pan with a small amount of oil
