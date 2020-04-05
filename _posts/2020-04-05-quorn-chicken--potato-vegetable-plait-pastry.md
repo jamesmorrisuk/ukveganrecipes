@@ -71,6 +71,12 @@ recipe:
     filling to be hot.
 
 
-    6. &nbsp;
+    6. Remove your prerolled pastry package from the fridge and allow it to sit
+    at room temperature for 10 minutes before you roll it out, otherwise it'll
+    stick and tear. A bad time.
+
+
+    7. Add all of your filling into the centre of the pastry vertically and
+    shape it into a giant rectangle/sausage shape.
 ---
 
