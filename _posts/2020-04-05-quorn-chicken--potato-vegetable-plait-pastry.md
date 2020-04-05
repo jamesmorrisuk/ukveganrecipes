@@ -1,5 +1,5 @@
 ---
-title: Quorn Chicken & Potato Vegetable Plait Pastry
+title: Quorn Chicken & Potato Vegetable Plait Pastry!
 categories:
   - Baking
 date: 2020-04-05 00:00:00
