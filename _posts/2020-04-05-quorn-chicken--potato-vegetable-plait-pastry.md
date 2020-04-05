@@ -77,18 +77,19 @@ recipe:
 
     >
 
-    > You can freeze the plait pastry afterwards for 30 minutes and then place
-    it into a bath of boiling water with 2 tablespoons of baking soda, this
-    helps browning it's what I do with my bread. BUT it's easy to mess up and
-    cause your entire pie to fall apart and disintegrate. So I wouldn't advise
-    you do this for your first shot. I've made a plait before and not done this
-    and it came out just as great.
+    > You can freeze the plait pastry after you've formed it&nbsp; for 30
+    minutes or so and then place it into a bath of boiling water with 2
+    tablespoons of baking soda, this helps browning, it's what I do with my
+    bread. **BUT it's easy to mess up and cause your entire pastry to fall apart
+    and disintegrate**. **So I wouldn't advise you do this for your first shot
+    at making this.** I've made a plait before and not done this and it came out
+    just as tasty.
 
 
-    ***If you skipped the optional step, and want sesame seeds or onion seeds or
-    poppy seeds to stick to the top of your pastry you'll need the pastry to be
-    slightly MOIST to have your seeds adhere to the pastry, so at this point you
-    can brush the plait with melted vegan butter.***
+    ***If you skipped the optional above step, and want sesame seeds or onion
+    seeds or poppy seeds to stick to the top of your pastry you'll need the
+    pastry to be slightly MOIST to have your seeds adhere to the pastry, so at
+    this point you can brush the plait with melted vegan butter.***
 
 
     ***If you don't want any seeds ontop of your pastry then you can skip
