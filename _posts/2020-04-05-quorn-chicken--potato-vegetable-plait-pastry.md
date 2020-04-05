@@ -42,6 +42,12 @@ recipe:
 
     11. Optional seeds for garnish. Sesame, onion seed, poppy. etc
   directions_markdown: >-
+    # Prep
+
+
+    &nbsp;
+
+
     1. Peel and chop a large baking potato into small bite sized cubes. Parboil
     in a boiling water.
 
@@ -78,5 +84,57 @@ recipe:
 
     7. Add all of your filling into the centre of the pastry vertically and
     shape it into a giant rectangle/sausage shape.
+
+
+    > **OPTIONAL**
+
+    >
+
+    >
+
+    > You can freeze the plait pastry afterwards for 30 minutes and then place
+    it into a bath of boiling water with 2 tablespoons of baking soda, this
+    helps browning it's what I do with my bread. BUT it's easy to mess up and
+    cause your entire pie to fall apart and disintegrate. So I wouldn't advise
+    you do this for your first shot. I've made a plait before and not done this
+    and it came out just as great.
+
+
+    ***If you skipped the optional step, and want sesame seeds or onion seeds or
+    poppy seeds to stick to the top of your pastry you'll need the pastry to be
+    slightly MOIST to have your seeds adhere to the pastry, so at this point you
+    can brush the plait with melted vegan butter.***
+
+
+    ***If you don't want any seeds ontop of your pastry then you can skip
+    brushing it with vegan butter initially but you may want to add some mid way
+    to assist with browning***.
+
+
+    # Cooking
+
+
+    &nbsp;
+
+
+    1. Heat your oven to 200c and cook the plait for 20 minutes before dropping
+    the temperature down to 150c for another 20 minutes of cooking. Keep an eye
+    on the pastry as all ovens vary some get hotters than others. You can remove
+    the pastry half way through if you'd like and brush with more vegan butter
+    if you want it to brown up further.
+
+    2. Don't leave it in too long or it'll dry out and as always food will
+    continue to residually cook once you remove it from the oven anyway.
+
+    3. Remove the pastry and let it cool slightly before you cut into it.
+
+
+    4. The end.
+
+
+    &nbsp;
+
+
+    > &nbsp;
 ---
 
