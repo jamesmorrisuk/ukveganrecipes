@@ -32,10 +32,7 @@ recipe:
 
     * *Optional seeds for garnish. Sesame, onion seed, poppy. etc*
   directions_markdown: >-
-    # Prep
-
-
-    &nbsp;
+    # Prep<br>&nbsp;
 
 
     1. Peel and chop a large baking potato into small bite sized cubes. Parboil
@@ -101,10 +98,7 @@ recipe:
     to assist with browning***.
 
 
-    # Cooking
-
-
-    &nbsp;
+    # Cooking<br>&nbsp;
 
 
     1. Heat your oven to 200c and cook the plait for 20 minutes before dropping
