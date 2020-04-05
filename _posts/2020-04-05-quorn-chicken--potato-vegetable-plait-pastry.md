@@ -37,16 +37,17 @@ recipe:
 
 
     2. Fry a packet of Quorn vegan chunks in a pan with a small amount of oil
-    and add your drained parboiled potatos. Fry both until they develop a very
-    light amount of colour. Remove from pan.
+    and add your drained parboiled potatos. Fry both until they develop a light
+    amount of browning. Remove from pan.
 
 
-    3. In that same frying pan add 2 tablespoons of your flour of choice, 3
-    tablespoons of a neutral flavour oil, I used vegetable. Begin to stir the
-    flour and water mixture removing as many lumps as possible, slowly add in
-    600ml of soy milk whilst continually stirring. Keep stirring on a medium
-    heat until the sauce begins to thicken up. Add your sauce to a blender or
-    use an immersion stick blender to remove any lumps caused by the flour.
+    3. To make your white sauce in the same frying pan add 2 tablespoons of your
+    flour of choice, 3 tablespoons of a neutral flavour oil, I used vegetable.
+    Begin to stir the flour and water mixture removing as many lumps as
+    possible, slowly add in 600ml of soy milk whilst continually stirring. Keep
+    stirring on a medium heat until the sauce begins to thicken up. Add your
+    sauce to a blender or use an immersion stick blender to remove any lumps of
+    flour remaining.
 
 
     4. Put your now lump free mixture back into the same pan and add your salt,
