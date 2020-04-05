@@ -37,7 +37,7 @@ recipe:
 
 
     2. Fry a packet of Quorn vegan chunks in a pan with a small amount of oil
-    and add your drain parboiled potatos. Fry both until they develop a very
+    and add your drained parboiled potatos. Fry both until they develop a very
     light amount of colour. Remove from pan.
 
 
