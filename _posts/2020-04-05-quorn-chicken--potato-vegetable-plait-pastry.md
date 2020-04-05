@@ -41,6 +41,36 @@ recipe:
 
 
     11. Optional seeds for garnish. Sesame, onion seed, poppy. etc
-  directions_markdown:
+  directions_markdown: >-
+    1. Peel and chop a large baking potato into small bite sized cubes. Parboil
+    in a boiling water.
+
+
+    2. Fry a packet of Quorn vegan chunks in a pan with a small amount of oil
+    and add your drain parboiled potatos. Fry both until they develop a very
+    light amount of colour. Remove from pan.
+
+
+    3. In that same frying pan add 2 tablespoons of your flour of choice, 3
+    tablespoons of a neutral flavour oil, I used vegetable. Begin to stir the
+    flour and water mixture removing as many lumps as possible, slowly add in
+    600ml of soy milk whilst continually stirring. Keep stirring on a medium
+    heat until the sauce begins to thicken up. Add your sauce to a blender or
+    use an immersion stick blender to remove any lumps caused by the flour.
+
+
+    4. Put your now lump free mixture back into the same pan and add your salt,
+    black pepper, garlic powder, onion powder, chives, onions and your regular
+    onion of choice.&nbsp; **Save a little of this sauce for later so you can
+    drizzle it onto your pastry or use it as a side sauce if you pastry filling
+    ends up being dry inside.**
+
+
+    5. Add your parcooked diced potato and quorn pieces to the sauce mixture.
+    Mix until combined and place onto a plate to cool. You don't want your
+    filling to be hot.
+
+
+    6. &nbsp;
 ---
 
