@@ -3,7 +3,7 @@ title: Quorn Chicken & Potato Vegetable Plait Pastry
 categories:
   - Baking
 date: 2020-04-05 00:00:00
-featured_image: /uploads/plait.jpg
+featured_image: /uploads/plait-1.jpg
 recipe:
   servings: 'Serves: 2 People'
   prep: 15 Minutes
