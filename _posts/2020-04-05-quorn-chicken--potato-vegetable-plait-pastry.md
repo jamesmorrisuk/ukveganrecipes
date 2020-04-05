@@ -9,38 +9,28 @@ recipe:
   prep: 15 Minutes
   cook: 40 Minutes
   ingredients_markdown: >-
-    1. 2 Tablespoons Flour. Plain or Corn whichever you have
+    * 2 Tablespoons Flour. Plain or Corn whichever you have
 
+    * 600ml Soy Milk
 
-    2. 600ml Soy Milk
+    * 3 Tablespoons Neutral Flavour Oil
 
-
-    3. 3 Tablespoons Neutral Flavour Oil
-
-
-    4. 1 Packet of Quorn Vegan Chunks (280g) if you can't get this use any vegan
+    * 1 Packet of Quorn Vegan Chunks (280g) if you can't get this use any vegan
     chicken/meat chunks
 
+    * 1 Large Baking Potato
 
-    5. 1 Large Baking Potato
+    * Chives & Spring Onions
 
+    * 1-2 Brown or Red onions
 
-    6. Chives & Spring Onions
+    * 1 Sheet of Prerolled Puff Pastry (I used the 320g Jus Roll)
 
+    * Seasonings: Salt. Black Pepper. Garlic. Onion Powder
 
-    7. 1-2 Brown or Red onions
+    * Vegan Butter
 
-
-    8. 1 Sheet of Prerolled Puff Pastry (I used the 320g Jus Roll)
-
-
-    9. Seasonings: Salt. Black Pepper. Garlic. Onion Powder
-
-
-    10. Vegan Butter
-
-
-    11. Optional seeds for garnish. Sesame, onion seed, poppy. etc
+    * *Optional seeds for garnish. Sesame, onion seed, poppy. etc*
   directions_markdown: >-
     # Prep
 
