@@ -34,9 +34,25 @@ recipe:
     8. 1 Sheet of Prerolled Puff Pastry (I used the 320g Jus Roll)
 
 
-    9. Seasonings: Salt. Black Pepper. Garlic. Onion Powder.
+    9. Seasonings: Salt. Black Pepper. Garlic. Onion Powder
 
-       &nbsp;
+
+    10. Vegan Butter
+
+
+    11. Optional seeds for garnish. Sesame, onion seed, poppy. etc
+
+
+    &nbsp;
+
+
+    &nbsp;
+
+
+    1. &nbsp;
+
+
+    &nbsp;
   directions_markdown:
 ---
 
