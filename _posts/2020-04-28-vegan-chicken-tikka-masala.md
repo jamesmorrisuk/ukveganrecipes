@@ -38,9 +38,7 @@ recipe:
     * A few squirts of Lemon juice or vinegar.
 
 
-    * &nbsp;
-
-      Vegetables of choice and as many chilies as your heart desires
+    * Vegetables of choice and as many chilies as your heart desires
 
       Optional: food coloring powder or paprika or beetroot extract if you’re not about that food coloring life.
   directions_markdown: >-
