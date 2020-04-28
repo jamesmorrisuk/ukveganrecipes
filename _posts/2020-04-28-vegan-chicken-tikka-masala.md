@@ -27,8 +27,8 @@ recipe:
 
     * &nbsp;2-3 tablespoons Desiccated coconut (optional)
 
-    * 3 tablespoons Almonds (IMPORTANT) (I use ground, important for a smooth
-    texture if you want to replicate your local takeaway)
+    * 3 tablespoons Almonds (IMPORTANT) (I use ground almonds, important for a
+    smooth texture if you want to replicate your local takeaway)
 
     * 1-2 tablespoons Ginger garlic paste homemade or shop-bought, or use
     chopped fresh garlic and ginger alternatively but not recommended use garlic
@@ -40,7 +40,7 @@ recipe:
 
     * Vegetables of choice and as many chilies as your heart desires
 
-      Optional: food coloring powder or paprika or beetroot extract if you’re not about that food coloring life.
+      > Optional: food coloring powder or paprika or beetroot extract if you’re not about that food coloring life.
   directions_markdown: >-
     &nbsp;
 
@@ -90,14 +90,21 @@ recipe:
     extract powder if you want that signature takeaway radioactive red colour.
 
 
-    As always adjust these amounts and measurements for your own personal taste
-    and preference.
+    > As always adjust these amounts and measurements for your own personal
+    taste and preference.
 
+    >
 
-    Garnish with your garnish of choice. I use coriander, a drizzle of coconut,
-    fresh chilies, chipotle chilli flakes, fenugreek leaf and nigella seeds.
+    >
 
+    > Garnish with your garnish of choice. I use coriander, a drizzle of
+    coconut, fresh chilies, chipotle chilli flakes, fenugreek leaf and nigella
+    seeds.
 
-    Serve with rice and naan
+    >
+
+    >
+
+    > Serve with rice and naan
 ---
 
