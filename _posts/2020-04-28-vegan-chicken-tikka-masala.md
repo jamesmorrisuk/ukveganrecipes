@@ -42,17 +42,18 @@ recipe:
 
       Optional: food coloring powder or paprika or beetroot extract if you’re not about that food coloring life.
   directions_markdown: >-
-    Add 2 tablespoons of vegetable oil (not olive oil, not coconut oil it’ll
-    fuck everything up) in a pan with your gas at medium.
+    &nbsp;
 
 
-    1. Optional: Add mustard seeds and nigella seeds to your pan and let them
-    begin to slowly fry. Alongside them add 1 HEAPED tablespoon of your mixed
-    curry powder and 1 heaped teaspoon of garam masala powder. Add your garlic &
-    ginger paste and add to the hot pan. Keep frying these off at a medium
-    temperature until fragrant, if they look like they're going to start burning
-    add a little water. Make sure to also continually stir every 10 seconds or
-    so to also prevent burning.
+    1. Add 2 tablespoons of vegetable oil (not olive oil, not coconut oil it’ll
+    fuck everything up) in a pan with your gas at medium.<br>Optional: Add
+    mustard seeds and nigella seeds to your pan and let them begin to slowly
+    fry.&nbsp; Next add 1 HEAPED tablespoon of your mixed curry powder and 1
+    heaped teaspoon of garam masala powder. Add your garlic & ginger paste to
+    the hot pan. Keep frying the spices and paste off at a medium temperature
+    until fragrant, if things look like they're going to start burning add a
+    little water. Make sure to continually stir every 10 seconds or so to also
+    prevent burning.
 
     2. Add finely diced or blended onions to your pan and let them sweat off for
     a little bit until they develop a bit of colour.
