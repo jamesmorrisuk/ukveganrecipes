@@ -46,9 +46,9 @@ recipe:
 
 
     1. Add 2 tablespoons of vegetable oil (not olive oil, not coconut oil it’ll
-    fuck everything up) in a pan with your gas at medium.<br>Optional: Add
+    fuck everything up) in a pan with your gas at medium.<br>*Optional: Add
     mustard seeds and nigella seeds to your pan and let them begin to slowly
-    fry.&nbsp; Next add 1 HEAPED tablespoon of your mixed curry powder and 1
+    fry.&nbsp;* Next add 1 HEAPED tablespoon of your mixed curry powder and 1
     heaped teaspoon of garam masala powder. Add your garlic & ginger paste to
     the hot pan. Keep frying the spices and paste off at a medium temperature
     until fragrant, if things look like they're going to start burning add a
