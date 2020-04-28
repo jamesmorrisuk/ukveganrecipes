@@ -69,8 +69,9 @@ recipe:
 
     6. At this point add your protein of choice Quorn or any other chicken meat
     sub of choice or even lentils also at this point add any vegetables you want
-    I used bell peppers and more onions but if you want a smooth texture like a
-    takeaway omit the vegetables and cook them separately for a side dish.
+    I used bell peppers and more onions but if you want a smooth textured sauce
+    like a takeaway omit the vegetables and cook them separately for a side
+    dish.
 
     7. Add 2-3 tablespoons of desiccated coconut and 3 heaped tablespoons of
     ground almonds and 1 tablespoon of sugar into your blender with a little
