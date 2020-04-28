@@ -3,7 +3,7 @@ title: Vegan Chicken Tikka Masala
 categories:
   - Curry
 date: 2020-04-28 00:00:00
-featured_image:
+featured_image: /uploads/tm.jpg
 recipe:
   servings: 2-3 Servings
   prep: 10 MInutes
