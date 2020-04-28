@@ -13,7 +13,9 @@ recipe:
 
     * Onions
 
-    * Half block of cream coconut or 1 can of full-fat coconut milk
+    * Half of a 200 gram block of creamed coconut ( so use 100 grams) or 1 can
+    400g can of full-fat coconut milk. Try to remove as much of the water in the
+    can as possible and just use the coconut fat solids.
 
     * &nbsp;1 can of plum tomatoes or chopped if you cannot find plum.
 
